@@ -3,3 +3,6 @@ function hello () {
 }
 
 //daafqwafwfwfwf
+function work() {
+  alert('work');
+}
